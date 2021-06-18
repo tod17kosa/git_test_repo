@@ -1,6 +1,7 @@
 <html>
 <body>
 <h1>JBoss EAP Test Page!!</h1>
+<h2>Git TEST</h2>
 <h2><a href="jvm_options.jsp">JVM Options Page</a></h2>
 <h2><a href="failover.jsp">Session Test Page</a></h2>
 <h2><a href="dbconn.html">DB Connection Test Page</a></h2>
